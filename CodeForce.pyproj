@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>915badc5-6946-45c6-a82d-803eebd5bcb8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Watermelon.py</StartupFile>
+    <StartupFile>Way Too Long Words.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Watermelon.py" />
+    <Compile Include="Way Too Long Words.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
